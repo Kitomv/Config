@@ -1,0 +1,2 @@
+# Config
+PUBGM Config
